@@ -1,13 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Giovanni+Braga!;I'm+26+years+old;I'm+from+Brasil,+SP;I+study+Front-End+At+EBAC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<br>
 
-
-<div align="center">
+<div>
   <a href="https://github.com/GiovanniBraga">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GiovanniBraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniBraga&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GiovanniBraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniBraga&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<br>
 
 ##
 
