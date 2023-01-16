@@ -3,10 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Giovanni+Braga!;I'm+26+years+old;I'm+from+Brazil,+São+Paulo;I+study+Front-End+At+EBAC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 
-<div>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=GiovanniBraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="50%" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniBraga&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
 <br>
 
 ##
