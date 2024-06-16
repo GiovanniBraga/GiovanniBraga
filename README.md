@@ -53,6 +53,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanniBraga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="120" alt="languages graph"  />
 </div>
 
+![snake gif](https://github.com/GiovanniBraga/GiovanniBraga/blob/output/github-contribution-grid-snake.gif)
+
 
 <h2 align="center">Find me</h2>
 <div align="center">
