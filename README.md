@@ -1,4 +1,4 @@
-<!--título-->
+<!--título--> 
 <div align="center" style="display: inline_block">
     <img align="left" height="140" margin="0" alt="cLink" src="https://cdn.discordapp.com/attachments/601451138935554162/1251925961344286852/217a2dec791dc01c0e1bbd736520e251_w200.gif?ex=66705a68&is=666f08e8&hm=f9d9fb4eb62fbc1163307b0f02b859b74c8587b46f69dc38d1b45405199f0c0d&">
 
